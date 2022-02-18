@@ -1,0 +1,32 @@
+[
+    {
+        "marca": "Fiat",
+        "modelo": "Ax20",
+        "portas": 2,
+        "cor": "azul"
+    },
+    {
+        "marca": "Tesla",
+        "modelo": "Al06",
+        "portas": 4,
+        "cor": "azul"
+    },
+    {
+        "marca": "Ford",
+        "modelo": "NextHero",
+        "portas": 4,
+        "cor": "preto"
+    },
+    {
+        "marca": "Dacia",
+        "modelo": "Dumio",
+        "portas": 2,
+        "cor": "vermelho"
+    },
+    {
+        "marca": "Divima",
+        "modelo": "So23",
+        "portas": 4,
+        "cor": "branco"
+    }
+]
